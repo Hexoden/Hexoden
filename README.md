@@ -82,6 +82,7 @@ I'm an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUl
                   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
                     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
                       <img src="https://img.icons8.com/?size=48&id=6RHskkZGRABM&format=png" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp;
+                       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
                 
                     
 </div>
