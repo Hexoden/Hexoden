@@ -61,22 +61,22 @@
     </tr>
     <tr>
       <td align="center" width="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/><br><sub>Git</sub>
+        <img img src="https://cdn.simpleicons.org/git/00ff88" width="40" alt="Git"/><br><sub>Git</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width="40" alt="GitHub"/><br><sub>GitHub</sub>
+         <img src="https://cdn.simpleicons.org/github/00ff88" width="40" alt="GitHub" ><br><sub>GitHub</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress"/><br><sub>WP</sub>
+        <img src="https://cdn.simpleicons.org/wordpress/00ff88" width="40" alt="GitHub" ><br><sub>WP</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/><br><sub>VS Code</sub>
+        <img src="https://img.icons8.com/?size=100&id=9t5UEEYXq0ZS&format=png&color=00ff88" width="40" alt="Visual Studio Code"/><br><sub>VS Code</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/><br><sub>VS</sub>
+        <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=00ff88" width="40" alt="Visual Studio"/><br><sub>VS</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/><br><sub>Eclipse</sub>
+        <img src="https://img.icons8.com/?size=100&id=38796&format=png&color=00ff88" width="40" alt="Linux"/><br><sub>Linux</sub>
       </td>
     </tr>
   </table>
