@@ -9,3 +9,7 @@
     display: table;
     clear: both;
   }
+
+.banner-gif {
+  border-radius: 25px;
+}
