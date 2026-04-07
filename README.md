@@ -6,6 +6,9 @@
        height="280"
        style="max-width: 100%; height: auto; object-fit: contain;/>
 </div>
+<div class="banner-section">
+  <p>test</p>
+</div>
 <!-- Badges: Improved styling -->
 <div align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
