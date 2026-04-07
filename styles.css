@@ -13,3 +13,8 @@
 .banner-gif {
   border-radius: 25px;
 }
+
+.banner-test {
+  border-radius: 25px;
+  background-color: red;
+}
