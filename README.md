@@ -1,12 +1,10 @@
 <!-- Banner Section: Your original sliced vision -->
 <div align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlvY3hscDhmeWp0eWRsODY2aXB2dzZrN3N2bGlkODN6NHNiajNteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6qIhoiPgxBba9L7BU/giphy.gif" 
-    alt="Profile Banner" 
-    style="width: 100%; max-width: 900px; height: 220px; object-fit: cover; object-position: top; border-radius: 0px;"
-  />
+  <img src="https://i.pinimg.com/originals/a1/34/c0/a134c0110a7254231860ceb57d9bcb53.gif" 
+       width="1200"
+       height="280"
+       style="max-width: 100%; height: auto; object-fit: contain;" />
 </div>
-
 <!-- Sub-header GIFs -->
 <div align="center">
   <img src="https://media3.giphy.com/media/14mSCGEeuqF0Kig8vo/200.webp?cid=790b76114yk84ypu5xsnruwazic8zdte31r2bhkp3xjfq0jb&ep=v1_stickers_search&rid=200.webp&ct=s" width="80"/>
