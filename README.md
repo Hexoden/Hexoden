@@ -94,6 +94,10 @@ I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
 
 ---
 
+![Alt](https://repobeats.axiom.co/api/embed/1b44c07df48a59026d7386d668eff1f6044f716f.svg "Repobeats analytics image")
+
+---
+
 <h2>🎯 My Hobbies</h2>
 
 <div align="center">
