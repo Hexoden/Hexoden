@@ -123,24 +123,37 @@ I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
 
 <h3>🎯 My Hobbies</h3>
 
-<table align="center" width="100%">
+<table>
   <tr>
-    <td valign="top" width="33%">
-      <h4 align="center">🌿 House Plants</h4>
+    <td>
+      <table align="center" width="100%">
+  <tr>
+    <td valign="top" width="20%">
+      <h4 align="center">🐍 Reptiles</h4>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="20%">
       <h3 align="center">&</h3>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="20%">
       <h4 align="center">🎵 Hard Techno</h4>
+    </td>
+     <td valign="top" width="20%">
+      <h3 align="center">&</h3>
+    </td>
+     <td valign="top" width="20%">
+      <h4 align="center">👾Gaming</h4>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlnODE3MHc4NjAxMHI5b2M3MmQxYTlic3Z4anl2ZXF1aTduNHJhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufjFk8J2dGlUnkY/giphy.gif" width="30%"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4aHQzdndxcG5vbnY0OWllMWZud25ia3F2d3cwbGEzdTl0YTQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtgTxOJPz1ATHIkbrP/giphy.gif" width="30%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0eWx0bzRsbzltdWttMGtnczN0YXRrOGxuN3pkY2tzcnUxNGZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elQ5RkAm90DZpirhRg/giphy.gif" width="30%"/>
-</div>
-
+    </td>
+    <td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4aHQzdndxcG5vbnY0OWllMWZud25ia3F2d3cwbGEzdTl0YTQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtgTxOJPz1ATHIkbrP/giphy.gif" width="65%"/></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpvODdvYmtxZHBmYzkyZ2NqZmE3NnZ2dzBuZTdoMG5kN2lkdDRvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZthUPXCVvZthrry/giphy.gif" width="80%"/></td>
+    <td align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0eWx0bzRsbzltdWttMGtnczN0YXRrOGxuN3pkY2tzcnUxNGZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elQ5RkAm90DZpirhRg/giphy.gif" width="65%"/>
+    </td>
+  </tr>
+</table>
 <hr>
