@@ -5,6 +5,7 @@
        height="280"
        style="max-width: 100%; height: auto; object-fit: contain;/>
 </div>
+    
 <!-- Badges: Improved styling -->
 <div align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
@@ -18,15 +19,22 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Hayds97&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
-<h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJicTJsaGtjYjZjcnRuNXFsZzE1dmFpdTdudTJ0ajU1cnNyd2g0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgWYWHWbOgu4YTbLTg/giphy.gif" width="120px"/>
-  HEY there, so <strong>excited</strong> you are here!
-</h1>
-
-<h3>🛠️ Current Languages and Tools:</h3>
-
-<!-- Improved Languages Grid -->
+<hr>
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <table>
+  <tr>
+      <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJicTJsaGtjYjZjcnRuNXFsZzE1dmFpdTdudTJ0ajU1cnNyd2g0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgWYWHWbOgu4YTbLTg/giphy.gif"             width="120px"/></td>
+      <td><strong>Welcome</strong></td>
+  </tr>
+</table>
+    </td>
+    <td>
+      <h3>🛠️ Current Languages and Tools:</h3>
+      <!-- Improved Languages/tools Grid -->
+        <div align="center">
   <table>
     <tr>
       <td align="center" width="50">
@@ -88,8 +96,30 @@
     </tr>
   </table>
 </div>
+      </td>
+    </tr>
+  </table>
+
+  </div>
 
 <hr>
+<h3>👨‍💻 About Me</h3>
+
+I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
+
+- 🔭 I'm working towards an undergraduate degree in Computing and IT (Software Engineering)
+- 🌱 I'm currently learning all things software and game development
+- 😄 Pronouns: He/Him/His
+- 🤯 Fun fact: I have a BSc in Psychiatric Nursing
+- 🖥️ Exploring all things code and tech!
+- ⚡ In my free time, I'm either listening to music, coding or reading
+- 📫 How to reach me: ![Joke Badge](https://img.shields.io/badge/Send_Me_a_Message!-✨-ff00ff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTQuOTMgNC45M2wyLjgzIDIuODMiLz48cGF0aCBkPSJNMTYuMjQgMTYuMjRsMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0iTTQuOTMgMTkuMDdsMi44My0yLjgzIi8+PHBhdGggZD0iTTE2LjI0IDcuNzZsMi44My0yLjgzIi8+PC9zdmc+&style=for-the-badge&labelColor=472a71&color=30955b)
+
+<br>
+<hr>
+
+
+
 
 <h3>🎯 My Hobbies</h3>
 
@@ -112,20 +142,5 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4aHQzdndxcG5vbnY0OWllMWZud25ia3F2d3cwbGEzdTl0YTQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtgTxOJPz1ATHIkbrP/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh0eWx0bzRsbzltdWttMGtnczN0YXRrOGxuN3pkY2tzcnUxNGZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elQ5RkAm90DZpirhRg/giphy.gif" width="30%"/>
 </div>
-
-<br>
-<hr>
-
-### 👨‍💻 About Me
-
-I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
-
-- 🔭 I'm working towards an undergraduate degree in Computing and IT (Software Engineering)
-- 🌱 I'm currently learning all things software and game development
-- 😄 Pronouns: He/Him/His
-- 🤯 Fun fact: I have a BSc in Psychiatric Nursing
-- 🖥️ Exploring all things code and tech!
-- ⚡ In my free time, I'm either listening to music, coding or reading
-- 📫 How to reach me: ![Joke Badge](https://img.shields.io/badge/Send_Me_a_Message!-✨-ff00ff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTQuOTMgNC45M2wyLjgzIDIuODMiLz48cGF0aCBkPSJNMTYuMjQgMTYuMjRsMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0iTTQuOTMgMTkuMDdsMi44My0yLjgzIi8+PHBhdGggZD0iTTE2LjI0IDcuNzZsMi44My0yLjgzIi8+PC9zdmc+&style=for-the-badge&labelColor=472a71&color=30955b)
 
 <hr>
